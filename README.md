@@ -61,7 +61,7 @@ MyWebApp/
    - Run `startup.bat` (Windows) or `startup.sh` (Linux/Mac) from the `bin` folder
 
 5. **Access the App**
-   - Open browser: [http://localhost:8080/MyWebApp/](http://localhost:8080/MyWebApp/)
+   - Open browser: [http://localhost:8080/webapp-demop/](http://localhost:8080/webapp-demo/)
    - Fill in the form and submit
 
 ---
